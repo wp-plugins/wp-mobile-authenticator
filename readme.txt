@@ -15,7 +15,7 @@ When used with my app this plugin will generate a one time code that you must en
 
 
 == Installation ==
-* [Download app for Android]("https://play.google.com/store/apps/details?id=com.jsdesign.wpauth")
+* [Download app for Android](https://play.google.com/store/apps/details?id=com.jsdesign.wpauth)
 1. Place in wp-content/plugin
 2. Activate.
 3. Go to your profile.
