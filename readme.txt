@@ -22,7 +22,7 @@ When used with my app this plugin will generate a one time code that you must en
 3. Go to your profile.
 4. At the bottom of the page, type in the keys the app gives you and click update profile.
 5. Check if code on website matches code in app.
-6. Check enable the click update profile.
+6. Check enable then click update profile.
 
 == Frequently Asked Questions ==
 
