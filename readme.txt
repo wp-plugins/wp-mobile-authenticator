@@ -16,6 +16,7 @@ When used with my app this plugin will generate a one time code that you must en
 
 == Installation ==
 * [Download app for Android](https://play.google.com/store/apps/details?id=com.jsdesign.wpauth)
+* iOS users [Get the web app](http://jacobsommerfeld.net/apps/wp-auth/) and use add to homescreen to use as a native app.
 1. Place in wp-content/plugin
 2. Activate.
 3. Go to your profile.
