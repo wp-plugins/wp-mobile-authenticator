@@ -11,7 +11,7 @@ Adds 2 step verification to your site
 
 == Description ==
 
-When used with my app this plugin will generate a one time code that you must enter when login into the admin panel of your WordPress Site. This 2 step verification can be switched on per account by going to your profile in the admin panel. The normal mode changes the code every 15 seconds and the relaxed mode changes it every 30 seconds.
+When used with my app this plugin will generate a one time code that you must enter when login into the admin panel. This 2 step verification can be switched on per account by going to your profile in the admin panel. The normal mode changes the code every 15 seconds and the relaxed mode changes it every 30 seconds.
 
 
 == Installation ==
