@@ -3,7 +3,7 @@ Contributors: (elrond1369)
 Tags: security, 2 step verification
 Requires at least: 3.9
 Tested up to: 4.1
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -15,8 +15,8 @@ When used with my app this plugin will generate a one time code that you must en
 
 
 == Installation ==
-* [Download app for Android](https://play.google.com/store/apps/details?id=com.jsdesign.wpauth)
-* iOS users [Get the web app](http://jacobsommerfeld.net/apps/wp-auth/) and use add to homescreen to use as a native app.
+* [Download app for Android](https://play.google.com/store/apps/details?id=net.jswebdev.novasauth)
+* iOS users [Get the web app](http://jacobsommerfeld.net/apps/novas-auth/) and use add to homescreen to use as a native app.
 1. Place in wp-content/plugin
 2. Activate.
 3. Go to your profile.
@@ -38,3 +38,7 @@ A. No. You can only set up for the account you are logged into.
 
 = 1.0.0 =
 * Initial release
+
+= 1.0.1 =
+* Name change
+* New link for new apps
