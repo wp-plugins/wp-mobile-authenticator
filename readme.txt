@@ -1,4 +1,4 @@
-=== WordPress Mobile Authenticator ===
+=== Nova's Mobile Authenticator ===
 Contributors: (elrond1369)
 Tags: security, 2 step verification
 Requires at least: 3.9
