@@ -3,7 +3,7 @@ Contributors: (elrond1369)
 Tags: security, 2 step verification
 Requires at least: 3.9
 Tested up to: 4.1
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -42,3 +42,5 @@ A. No. You can only set up for the account you are logged into.
 = 1.0.1 =
 * Name change
 * New link for new apps
+= 1.0.2 = 
+* Fixed plugin name in profile
