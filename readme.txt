@@ -2,7 +2,7 @@
 Contributors: (elrond1369)
 Tags: security, 2 step verification
 Requires at least: 3.9
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.0.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
