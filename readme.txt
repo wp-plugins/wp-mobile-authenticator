@@ -2,7 +2,7 @@
 Contributors: (elrond1369)
 Tags: security, 2 step verification
 Requires at least: 3.9
-Tested up to: 4.2
+Tested up to: 4.2.2
 Stable tag: 1.0.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -21,7 +21,7 @@ When used with my app this plugin will generate a one time code that you must en
 2. Activate.
 3. Go to your profile.
 4. At the bottom of the page, type in the keys the app gives you and click update profile.
-5. Check if code on website matches code in app.
+5. Make sure the current code in your profile matches the code in the app.
 6. Check enable then click update profile.
 
 == Frequently Asked Questions ==
